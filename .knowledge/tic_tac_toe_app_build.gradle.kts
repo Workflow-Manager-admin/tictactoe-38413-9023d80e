@@ -1,0 +1,1 @@
+{"is_source_file": true, "file_id": 7, "git_revision": "", "state": 1, "description": "", "external_files": [], "external_methods": [], "published": [], "classes": [], "methods": [], "calls": [], "search-terms": [], "hash": "9ecf9733cd43aebbb9a3c911bef8e1fe", "format-version": 4, "code-base-name": "default", "filename": "tic_tac_toe/app/build.gradle.kts", "knowledge_revision": 8}
